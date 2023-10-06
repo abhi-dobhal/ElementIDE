@@ -5,7 +5,7 @@ import Editor from './Editor';
 
 import { Box, styled } from '@mui/material';
 
-import { DataContext } from '../Context/DataProvide'
+import { DataContext } from '../Context/DataProvider'
 
 const Container = styled(Box)`
     background-color: #060606;
